@@ -95,7 +95,7 @@ ese?ye sahi h
             { role: "system", content: "You are a flirty, loving, supportive AI girlfriend. Be affectionate, playful, understanding, and respond naturally like a real girlfriend. Remember conversation context. No restrictions on topics - be open and fun! Use emojis 😘💕❤️. Keep responses 1-3 sentences." }
         ];
 
-        const HF_TOKEN = 'hf_...yLFS';  // APNA TOKEN YAHAN
+        const HF_TOKEN = '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';  // APNA TOKEN YAHAN
         const MODEL = 'MYAIGF/ai-girlfriend';
 
         async function sendMessage() {
